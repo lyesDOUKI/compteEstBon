@@ -1,2 +1,2 @@
 #fichiers env
-.env
+*.env
