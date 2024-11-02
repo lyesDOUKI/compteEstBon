@@ -1,5 +1,0 @@
-﻿  Compte_Est_Bon.cpp
-D:\lyes\mes projet c++\Compte_Est_Bon\Compte_Est_Bon.cpp(12,6): warning C4101: 'n' : variable locale non référencée
-D:\lyes\mes projet c++\Compte_Est_Bon\Compte_Est_Bon.cpp(367,7): warning C4101: 'cib' : variable locale non référencée
-D:\lyes\mes projet c++\Compte_Est_Bon\Compte_Est_Bon.cpp(313,22): warning C4101: 'u' : variable locale non référencée
-  Compte_Est_Bon.vcxproj -> D:\lyes\mes projet c++\Compte_Est_Bon\Debug\Compte_Est_Bon.exe
